@@ -1,0 +1,14 @@
+h1,
+h2,
+p {
+  text-align: center;
+}
+a {
+  display: block;
+  text-align: center;
+}
+#contact-cat {
+  width: 200px;
+  margin-left: 280px;
+  margin-top: 0px;
+}
